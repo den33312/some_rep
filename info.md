@@ -5,6 +5,10 @@
    * git config user.name "name"
    * git config user.emai "mail@m.ru"
 
+*Нужно прописать name и email локально:*
+* git config --local user.name
+* git config --local user.email
+
 
 
 # Создание <сохранений> (тут и add, и status, и commit)
