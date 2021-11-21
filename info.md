@@ -11,6 +11,9 @@
 * git config --local user.name
 * git config --local user.email
 
+*После нужно создать локальный репозиторий:*
+* git init
+
 
 
 # Создание <сохранений> (тут и add, и status, и commit)
