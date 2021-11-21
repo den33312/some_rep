@@ -94,6 +94,10 @@
 
 # Удаление веток
 
+* git branch -d branch_name
+
+   Удаляет ветку с именем branch_name
+
 # Инструкция по работе с git
 1. Задать почту и имя
    * git config user.name "name"
