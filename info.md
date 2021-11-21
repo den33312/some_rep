@@ -1,6 +1,11 @@
 # Что такое git
 
 # Подготовка репозитория 
+*Перед началом работы, нужно представиться репозиторию:*
+   * git config user.name "name"
+   * git config user.emai "mail@m.ru"
+
+
 
 # Создание <сохранений> (тут и add, и status, и commit)
 
